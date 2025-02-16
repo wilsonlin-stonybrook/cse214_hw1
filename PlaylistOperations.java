@@ -1,14 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 1
- * CSE214.R30 Summer 2024
- */
-
-/**
  * The <code>PlaylistOperations</code> class is used to test the methods of
  * the playlist class, and it allows the user to manipulate
  * a single playlist object.
