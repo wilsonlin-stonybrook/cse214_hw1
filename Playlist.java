@@ -1,10 +1,3 @@
-/**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 1
- * CSE214.R30 Summer 2024
- */
 
 /**
  * The <code>Playlist</code> class uses an array to represent a playlist of song records.
